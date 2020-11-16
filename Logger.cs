@@ -43,6 +43,7 @@ namespace Logger
             }
             catch (Exception)
             {
+                //wat to do
             }
         }
 
